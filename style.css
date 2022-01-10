@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid black;
+  margin-top:10px;
+  margin-left: 350px;
+}
+#abc{
+  
+  position:absolute;
+  left: 800px;
+  top: 200px;
+  display: none;
+  
+}
+#name{
+  position: absolute;
+left:400px;
+top:125px;
+border-radius: 5px;
+}
+
+#pet{
+  position: absolute;
+  left: 400px;
+  top: 265px;
+  border-radius: 5px;
+}
+#creator{
+  background-color: cyan;
+  position: absolute;
+  left: 800px;
+  top: 50px;
+  width: 100px;
+  border-radius: 15px;
+  box-shadow: 4px 4px darkblue;
+}
